@@ -1,0 +1,22 @@
+*{
+    font-family: Times New Roman, Times, serif;
+    border: 1px solid red;
+}
+.header{
+    display: inline-flex;
+    gap:100px;
+}
+.ingredients{
+    display: inline-flex;
+    gap: 20px;
+}
+.h3{
+    text-align: center;
+}
+.ol{
+    text-align: center;
+}
+div{
+    text-align:justify;
+
+}

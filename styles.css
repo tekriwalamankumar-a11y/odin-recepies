@@ -1,0 +1,26 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: whitesmoke;
+ 
+}
+.head{
+   display: inline-flex;
+   gap: 80px;
+}
+.mid{
+   display: block;
+   text-align: center;
+}
+.li{
+   display:inline-flex ;
+   gap: 40px;
+}
+.p1{
+   text-align: justify;
+   color:darkgrey;
+
+}
+.bm{
+   margin: 10px auto;
+   text-decoration: underline;
+}
